@@ -3,3 +3,4 @@
 - white1033
 - Jboss
 - SNSD
+- KARA
